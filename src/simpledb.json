@@ -1,4 +1,6 @@
 {
-    "09d99864-3d0c-4b6f-b0fa-7e232b703c55": "{\"smsId\":\"09d99864-3d0c-4b6f-b0fa-7e232b703c55\",\"from\":\"AVEN DING\",\"to\":\"MACC DING\",\"text\":\"Hi, Macc Macc. Have you eaten your breakfast?\",\"createdTimeUtc\":\"2023-11-20T08:24:58.724Z\"}",
-    "8216d1eb-2621-4f6c-976c-3d3c563fc900": "{\"smsId\":\"8216d1eb-2621-4f6c-976c-3d3c563fc900\",\"from\":\"AVEN DING \",\"to\":\"SIA LI ZE\",\"text\":\"Yo, bro. What are you doing right now?\",\"createdTimeUtc\":\"2023-11-20T08:25:49.867Z\"}"
+    "ca165899-e7f4-4f5a-9609-fc058a2c3c03": "{\"smsId\":\"ca165899-e7f4-4f5a-9609-fc058a2c3c03\",\"from\":\"AVEN DING\",\"to\":\"MACC DING\",\"text\":\"Hi, Macc Macc. Have you eaten your breakfast?\",\"createdTimeUtc\":\"2023-11-22T08:06:58.643Z\"}",
+    "298fdafd-c718-4e64-a657-4a4d000ade7a": "{\"smsId\":\"298fdafd-c718-4e64-a657-4a4d000ade7a\",\"from\":\"YIN KAI ELECTRICAL\",\"to\":\"Mr Wong \",\"text\":\"Outstanding Invoice:  INV 1108\",\"createdTimeUtc\":\"2023-11-22T08:08:30.703Z\"}",
+    "b1582a14-0267-4f2e-a967-328328e6cb70": "{\"smsId\":\"b1582a14-0267-4f2e-a967-328328e6cb70\",\"from\":\"ADK AIRCON SERVICE\",\"to\":\"Mr Tan\",\"text\":\"Quotation: Landmark Condo\",\"createdTimeUtc\":\"2023-11-22T08:09:21.595Z\"}",
+    "351b88a2-6d3b-4b65-aafc-0e24e1767895": "{\"smsId\":\"351b88a2-6d3b-4b65-aafc-0e24e1767895\",\"from\":\"Biscuit Mobile\",\"to\":\"SIA LI ZE\",\"text\":\"Hi, dear customer. You still have an outstanding bill\",\"createdTimeUtc\":\"2023-11-22T08:11:05.521Z\"}"
 }
